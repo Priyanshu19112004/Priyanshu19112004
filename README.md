@@ -282,20 +282,19 @@ A business analytics solution combining **SQL, Excel and Power BI** to analyze s
 
 ---
 
-## 🏅 GitHub Trophies
+<h2>🏅 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu19112004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu19112004&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+#<h2>📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu19112004&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu19112004&theme=github-compact&hide_border=true" />
 </p>
-
 ---
 
 <h2>🐍 Contribution Snake</h2>
