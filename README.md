@@ -298,10 +298,14 @@ A business analytics solution combining **SQL, Excel and Power BI** to analyze s
 
 ---
 
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
-![Snake animation](https://raw.githubusercontent.com/Priyanshu19112004/Priyanshu19112004/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Priyanshu19112004/Priyanshu19112004/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</p>
 ---
 
 ## 🎯 Current Focus
