@@ -282,21 +282,6 @@ A business analytics solution combining **SQL, Excel and Power BI** to analyze s
 
 ---
 
-<h2>🏅 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu19112004&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
-
-#<h2>📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu19112004&theme=github-compact&hide_border=true" />
-</p>
----
-
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
