@@ -300,9 +300,7 @@ A business analytics solution combining **SQL, Excel and Power BI** to analyze s
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu19112004/Priyanshu19112004/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/Priyanshu19112004/Priyanshu19112004/output/github-contribution-grid-snake.svg)
 
 ---
 
